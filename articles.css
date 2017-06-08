@@ -1,0 +1,33 @@
+#firstArticle
+{
+	border: 2px solid green;
+	font-family: 'Dancing Script', cursive;
+	background-color: #33ff11;
+	font-size: 2.2em;
+	color: #113311;
+	line-height: 90%;
+	padding: 10px;
+	border-radius: 30px;
+}
+#secondArticle
+{
+	border: 2px solid blue;
+	font-family: 'Josefin Slab', serif;
+	background-color: #11ddff;
+	font-size: 1.2em;
+	color: #113355;
+	line-height: 80%;
+	padding: 20px;
+	border-radius: 100px;
+}
+#thirdArticle
+{
+	border: 2px solid black;
+	font-family: 'Permanent Marker', cursive;
+	background-color: gray;
+	font-size: 1.75em;
+	color: white;
+	line-height: 100%;
+	padding: 50px;
+	border-radius: 200px;
+}
